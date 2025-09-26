@@ -16,5 +16,4 @@ This is my first local change to the repo.
 [Link Text](https://www.google.com
 Links to an external site.)
 
-
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![alt text](Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
