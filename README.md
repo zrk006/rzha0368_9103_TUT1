@@ -16,8 +16,6 @@ The Perlin noise flow field is a popular coding technique for simulating natural
 Example image: [Perlin Flow Field Example](https://openprocessing.org/sketch/738530)
 ![alt text](openprocessing.orgsketch738530.png)
 Example Code: [Perlin Noise Flow Field — The Coding Train](https://thecodingtrain.com/challenges/24-perlin-noise-flow-field)
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/024-perlinnoiseflowfield.html
 
 I have attached the code within the website address below for reference only:
 
