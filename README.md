@@ -5,8 +5,8 @@
 **Example:** Refik Anadol — *Wind of Boston: Data Paintings*  
 I am inspired by Refik Anadol’s “Wind of Boston,” where particle movements visualize invisible natural forces. I would like to incorporate a similar particle flow aesthetic into my project to represent emotion or sound as dynamic, abstract motion. This technique effectively combines minimal form with rich, evolving behavior, making the visual experience both calm and immersive. It fits my assignment’s goal of creating an interactive, responsive artwork that reacts to user input or environmental data, transforming intangible concepts into a living digital landscape.
 
-![Refik Anadol Wind of Boston 1](https://refikanadol.com/wp-content/uploads/2017/04/WoB_01.jpg)
-![Refik Anadol Wind of Boston 2](https://refikanadol.com/wp-content/uploads/2017/04/WoB_02.jpg)
+![alt text](refikanadolstudio.comprojectsmelting-memories.png)
+![alt text](refikanadol.comworkswind-of-boston-data-paintings.png)
 
 # Part 2: Coding Technique Exploration
 
@@ -17,4 +17,4 @@ Example Code: [Perlin Noise Flow Field — The Coding Train](https://thecodingtr
 
 
 Example image: [Perlin Flow Field Example](https://openprocessing.org/sketch/738530)
-![alt text](httpsopenprocessing.orgsketch738530.png)
+![alt text](openprocessing.orgsketch738530.png)
